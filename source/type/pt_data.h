@@ -43,6 +43,8 @@ www.navitia.io
 #include "code_container.h"
 #include "headsign_handler.h"
 
+#include "type/request.pb.h"
+
 #include <boost/serialization/map.hpp>
 #include "utils/serialization_unordered_map.h"
 #include "utils/serialization_tuple.h"
